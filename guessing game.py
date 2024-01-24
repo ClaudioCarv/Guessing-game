@@ -37,7 +37,7 @@ while True:
         time.sleep(4)
         print('{}{}PENSEI !{}'.format(colors.tipos['negrito'], colors.cores['verde'], colors.cores['limpa']))
         time.sleep(1)
-        print(num)
+        
     elif(jg == 2):
         print('{}Encerrado{}'.format(colors.cores['vermelho'], colors.cores['limpa']))
         break
